@@ -1,5 +1,5 @@
 Deep Learning Image Classifier from Scratch
-This repository presents a comprehensive exploration into building a robust image classifier using advanced deep learning techniques. The project focuses on classifying a meticulously curated dataset comprising 403 images categorized into distinct classes of ants and bees. The key highlights of the project are outlined below:
+This repository presents a comprehensive exploration into building a robust image classifier using advanced deep learning techniques. The project focuses on classifying a meticulously curated dataset comprising 401 images categorized into distinct classes of ants and bees. The key highlights of the project are outlined below:
 
 Key Features:
 Data Augmentation: Utilizes the ImageDataGenerator from TensorFlow's Keras API for data augmentation, enhancing the model's ability to generalize and recognize diverse patterns.
