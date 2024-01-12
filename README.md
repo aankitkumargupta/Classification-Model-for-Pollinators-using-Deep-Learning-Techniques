@@ -1,5 +1,6 @@
-Deep Learning Image Classifier from Scratch
-This repository presents a comprehensive exploration into building a robust image classifier using advanced deep learning techniques. The project focuses on classifying a meticulously curated dataset comprising 401 images categorized into distinct classes of ants and bees. The key highlights of the project are outlined below:
+Pollination Monitoring in Precision Agriculture using Deep Learning Techniques
+
+This repository delves into the development of a image classifier utilizing advanced deep learning techniques, with a specific application in pollination monitoring for Precision Agriculture. The project aims to create a classifier capable of accurately categorizing a dataset of images, distinguishing between ants and bees. By incorporating deep learning techniques, the system seeks to enhance the precision and efficiency of monitoring pollinators in agricultural settings. The ensuing exploration underscores the significance of leveraging Deep learning technology for sustainable agriculture practices, addressing the crucial role of pollinators in the ecosystem.
 
 Key Features:
 Data Augmentation: Utilizes the ImageDataGenerator from TensorFlow's Keras API for data augmentation, enhancing the model's ability to generalize and recognize diverse patterns.
